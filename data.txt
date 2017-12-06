@@ -1,17 +1,19 @@
-Jones 3
+0 Jones
 
-Bob 2
-Dan 0
-Brian 1
+1 Bob
 
+2 Richard
 
-Richard 0
+2 Jake
 
-Jake 1
-Bill 0
+3 Bill
 
 
+1 Dan
 
 
-Michael 1
-Deville 0
+1 Brian
+
+2 Mike
+
+3 Deville
