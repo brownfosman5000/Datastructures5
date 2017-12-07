@@ -1,0 +1,32 @@
+Sons of Bob: Richard, Jake
+The Oldest Son of Richard
+The Youngest Son is Jake
+The Youngest Brother is Brian
+
+
+Next Tree
+Sons of Max: Jack, Jones
+The Oldest Son of Jack
+The Youngest Son is Jones
+The Youngest Brother is Nick
+
+
+Next Tree
+Sons of Liam: Logan, Ben
+The Oldest Son of Logan
+The Youngest Son is Ben
+Liam has no brothers
+
+
+Next Tree
+Sons of Carter: Henry, Tony, Chris
+The Oldest Son of Henry
+The Youngest Son is Chris
+The Youngest Brother is Luke
+
+
+Next Tree
+Aaron has no sons
+Aaron has no sons
+Aaron has no sons
+Aaron has no brothers
